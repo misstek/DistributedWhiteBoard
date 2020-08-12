@@ -20,3 +20,4 @@ java -jar JoinWhiteBoard.jar <serverIPAddress> <serverPort> username
 3. When the manager quits, the application will be terminated. All the peers will get a message notifying them.  
 4. An online peer list should be maintained and displayed  
 ## Interaction Diagram
+![image](https://github.com/misstek/DistributedWhiteBoard/blob/master/Img/Interaction.png)
