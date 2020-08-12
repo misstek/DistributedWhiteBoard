@@ -4,7 +4,7 @@ Shared whiteboards should support a range of features such as freehand drawing w
 ## How to use
 Set up server first  
 ```
-java -jar WhiteBoardServer.jar <serverPort>
+java -jar WhiteBoardServer.jar <serverIPAddress> <serverPort>
 ```
 The manager should join first  
 ```
