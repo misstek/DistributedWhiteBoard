@@ -10,7 +10,7 @@ The manager should join first
 ```
 java -jar CreateWhiteBoard.jar <serverIPAddress> <serverPort> username
 ```
-User client join white board
+User clients join white board
 ```
 java -jar JoinWhiteBoard.jar <serverIPAddress> <serverPort> username
 ```
