@@ -31,4 +31,6 @@ All the users should see the same image of the whiteboard and should have the pr
 
 
 ## Interaction Diagram
-![image](https://github.com/misstek/DistributedWhiteBoard/blob/master/Img/Interaction.png)
+![image](https://github.com/misstek/DistributedWhiteBoard/blob/master/Img/Interaction.png)  
+## Class Design
+![image](https://github.com/misstek/DistributedWhiteBoard/blob/master/Img/Class%20Design.png)
